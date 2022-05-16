@@ -1,15 +1,16 @@
 # Femi
-Femi is a soil type detector and crop suggester that aims to promote sustainable agriculture.
+Femi is a soil type detector and crop suggester that aims to promote sustainable agriculture. A technological solution to detect which crop is suitable and most fruitful for your soil type. This project predicts crop based on soil type.
 
-Tech Stack
+
+# Tech Stack
 Front-end: HTML, CSS, JavaScript
 Back-end: Flask
 ML: Keras, Tensorflow
 
-Target Audience
+# Target Audience
 Farmers, Gardening Enthusiasts
 
-Impact
+# Impact
 Femi aims to meet the 3 Sustainable Development Goals:
 
 SDG 2: Zero Hunger
