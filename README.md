@@ -25,3 +25,5 @@ Femi aims to meet the 3 Sustainable Development Goals:
 ![pik4](https://github.com/kalpanagarg9224/Femi/assets/85828838/9d54e345-8f0c-4bc2-bf8d-dc2bb43a02b8)
 ![pik5](https://github.com/kalpanagarg9224/Femi/assets/85828838/6ea67d46-a7b5-4736-b25b-93c0a1583f08)
 ![pik7](https://github.com/kalpanagarg9224/Femi/assets/85828838/a1ef514f-b94d-434d-99bf-8be54a31394c)
+![pik3](https://github.com/kalpanagarg9224/Femi/assets/85828838/e10cceda-5135-4b6d-a975-a54cb7d6bbdf)
+
