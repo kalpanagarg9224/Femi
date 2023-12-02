@@ -3,8 +3,8 @@ Femi is a soil-type detector and crop suggester that aims to promote sustainable
 
 # Tech Stack
 1) Front-end: HTML, CSS, JavaScript
-2) Back-end: Flask
-3) ML: Keras, Tensorflow
+2) Back-end: Flask, MySQL
+3) ML: Numpy, Pandas, Tensorflow, Keras, OpenCV, SqlAlchemy, Seaborn, Matplotlib
 
 # Target Audience
 Farmers, Gardening Enthusiasts
