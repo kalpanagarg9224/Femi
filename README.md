@@ -15,6 +15,9 @@ Femi aims to meet the 3 Sustainable Development Goals:
 1) SDG 2: Zero Hunger 
 2) SDG 12: Responsible Consumption and Production, 
 3) SDG 15: Life on Land
+   
+![pik1](https://github.com/kalpanagarg9224/Femi/assets/85828838/f0f8426e-2851-4b26-b0b6-fedfb12a06f8)
+![pik2](https://github.com/kalpanagarg9224/Femi/assets/85828838/a4418d6c-2fe7-413c-856b-13ae4212ece5)
 ![Untitled](https://github.com/kalpanagarg9224/Femi/assets/85828838/149a0086-e4d4-4e78-97a8-f5a7634752f5)
 ![Untitled](https://github.com/kalpanagarg9224/Femi/assets/85828838/685fe02f-152b-44bd-b341-c0f7ec47ed0f)
 ![Untitled](https://github.com/kalpanagarg9224/Femi/assets/85828838/1e3d8f34-d749-4d78-b9c7-b707649ec65c)
